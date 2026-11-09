@@ -1,0 +1,3 @@
+[prompting] 1/12 full_prompts OKC vs DEN (run 1)
+[prompting] 2/12 no_grounding_rules OKC vs DEN (run 1)
+[prompting] 3/12 no_report_format OKC vs DEN (run 1)
